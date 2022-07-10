@@ -1,2 +1,2 @@
 # Aprendendo
-Repositório de testes e apredinzagem.
+Repositório de testes e aprendizagem.
